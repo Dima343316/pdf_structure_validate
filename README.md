@@ -62,11 +62,11 @@ pip install -r requirements.txt
 
     Для Linux (Ubuntu/Debian):
 
-sudo apt-get install tesseract-ocr
+    sudo apt-get install tesseract-ocr
 
     Для macOS (через Homebrew):
 
-brew install tesseract
+    brew install tesseract
 
     Для Windows: Скачайте и установите Tesseract с официального сайта. Убедитесь, что путь к установке добавлен в переменную окружения PATH.
 
