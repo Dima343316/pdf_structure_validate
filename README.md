@@ -37,20 +37,17 @@
 
 ***ПРИМЕР ВЫВОДА ДОКЕР КОНТЕЙНЕРА НА ТЕСТОВЫХ ФАЙЛАХ:***
 
-pdf_validator-pdf_validator-1  | test_pdf_validate.py::test_pdf_structure 
-pdf_validator-pdf_validator-1  | Найдено 2 штрихкодов на изображении.
-pdf_validator-pdf_validator-1  | Тип: CODE128, Данные: 1
-pdf_validator-pdf_validator-1  | Тип: CODE128, Данные: tst
-pdf_validator-pdf_validator-1  | Найдено 2 штрихкодов на изображении.
-pdf_validator-pdf_validator-1  | Тип: CODE128, Данные: 1
-pdf_validator-pdf_validator-1  | Тип: CODE128, Данные: tst
-pdf_validator-pdf_validator-1  | Текст совпадает на всех страницах.
-pdf_validator-pdf_validator-1  | Штрихкоды совпадают на всех страницах.
-pdf_validator-pdf_validator-1  | PDF соответствует эталону.
-pdf_validator-pdf_validator-1  | PASSED
-pdf_validator-pdf_validator-1  | 
-pdf_validator-pdf_validator-1  | 
-pdf_validator-pdf_validator-1  | ============================== 1 passed in 0.83s ===============================
+ | test_pdf_validate.py::test_pdf_structure 
+ | Найдено 2 штрихкодов на изображении.
+ | Тип: CODE128, Данные: 1
+ | Тип: CODE128, Данные: tst
+ | Найдено 2 штрихкодов на изображении.
+ | Тип: CODE128, Данные: 1
+ | Тип: CODE128, Данные: tst
+ | Текст совпадает на всех страницах.
+ | Штрихкоды совпадают на всех страницах.
+ | PDF соответствует эталону.
+ | PASSED
 
 
 ***УСТАНОВКА ЧЕРЕЗ КОНСОЛЬ ПРОЕКТА:***
