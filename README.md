@@ -36,6 +36,7 @@
         Различия в количестве или содержимом штрихкодов.
 
 ***ПРИМЕР ВЫВОДА ДОКЕР КОНТЕЙНЕРА НА ТЕСТОВЫХ ФАЙЛАХ:***
+
 pdf_validator-pdf_validator-1  | test_pdf_validate.py::test_pdf_structure 
 pdf_validator-pdf_validator-1  | Найдено 2 штрихкодов на изображении.
 pdf_validator-pdf_validator-1  | Тип: CODE128, Данные: 1
