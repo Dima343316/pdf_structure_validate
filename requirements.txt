@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+pdf2image
+pyzbar
+typing-extensions
+pytest
+
