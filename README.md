@@ -69,7 +69,9 @@ pip install -r requirements.txt
 
     Для Windows: Скачайте и установите Tesseract с официального сайта. Убедитесь, что путь к установке добавлен в переменную окружения PATH.
 
-***Пример использования***
+## Пример использования
+
+```python
 from pdf_structure_validator import PdfStructureValidator
 
 # Укажите путь к эталонному PDF файлу
