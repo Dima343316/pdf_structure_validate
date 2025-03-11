@@ -1,6 +1,6 @@
-***Описание проекта***
+# Описание проекта
 
-# Название: PDF Structure Validator
+***Название: PDF Structure Validator***
 
 Этот проект предназначен для извлечения текста и штрихкодов из PDF-файлов и проверки других PDF-документов на соответствие эталонной структуре. Используется для автоматической валидации PDF-документов на наличие текста и штрихкодов в нужных местах.
 Основные функции:
@@ -74,13 +74,12 @@ pip install -r requirements.txt
 
 from pdf_structure_validator import PdfStructureValidator
 
-# Создаем валидатор с путем к эталонному PDF
+
 validator = PdfStructureValidator(reference_pdf_path="path_to_reference_pdf")
 
-# Валидируем тестовый PDF
+
 report = validator.validate_pdf(test_pdf_path="path_to_test_pdf")
 
-# Выводим отчет о различиях
 for line in report:
     print(line)
 
