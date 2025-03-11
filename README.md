@@ -19,6 +19,7 @@
     pytest: для тестирования.
 
 ***Установка:***
+1) Клонируйте репозиторий командой - git clone https://github.com/Dima343316/pdf_structure_validate.git
 
 Через докер командой - docker-compose build
 
